@@ -1,0 +1,9 @@
+{
+	"name": "datafactoryvesaliuspharma",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e91e9b54-b8ad-4aa5-aed9-bb46c5004ba7",
+		"tenantId": "64ec87ea-ff01-4af4-b1e8-cc4048cafed4"
+	}
+}
